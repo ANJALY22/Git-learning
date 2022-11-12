@@ -1,0 +1,7 @@
+create table
+
+student : fname,mname,lname,dob,gender,clg-name,dept
+insert into student (First_name,Middle_name,Last_name,DateOfBirth,Gender,College_name,Department) VALUES('Anu','','Thomas','2001-05-04','Female','cet','cs');
+
+
+
