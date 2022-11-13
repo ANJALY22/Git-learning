@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 nbfhgvcbnfytjhjkujkljiluknkhyiugghdrewerdhty8i7ikhkiui
 hjgj
 bghfh
 mvhf
 bgjhgj
+=======
+nbfhgvcbnfytjhjkujkljiluknkhyiugghdrewerdhty8i7ikhkiui
+>>>>>>> feature
